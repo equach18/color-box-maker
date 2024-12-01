@@ -1,14 +1,12 @@
 .Box-container {
-    margin: 10px;
-    border: 1px solid grey;
-    padding: 10px;
-    border-radius: 5px;
-    display: inline-block;
-    text-align: center;
-  
-  }
-  
-  .Box-container button{
-      margin-top: 8px;
-  }
-  
+  margin: 10px;
+  border: 1px solid grey;
+  padding: 10px;
+  border-radius: 5px;
+  display: inline-block;
+  text-align: center;
+}
+
+.Box-container button {
+  margin-top: 8px;
+}
